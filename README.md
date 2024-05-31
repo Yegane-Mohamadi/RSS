@@ -27,11 +27,5 @@
 ## Additional Notes
 📄 The application stores URLs and their corresponding RSS feeds in a data.txt file.
 
-## Contributors
-👨‍💻 Contributors: [Your Name](https://github.com/yourusername)
-
-Feel free to contribute to this project by forking it and creating a pull request with your changes.
-
-If you encounter any issues or have suggestions for improvement, please create an issue on this repository.
 
 Happy coding! 🚀
